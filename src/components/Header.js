@@ -135,7 +135,7 @@ export default class Header extends Component {
               <DesktopView>
                 <TextSeparator>|</TextSeparator>
               </DesktopView>
-              <Subtitle>Where kabiliyat meets kaamyabi</Subtitle>
+              <Subtitle>Where Kabiliyat meets Kaamyabi</Subtitle>
             </TitleContainer>
             <ButtonContainer>
               <ModFormControl variant="outlined">

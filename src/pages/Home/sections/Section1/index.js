@@ -28,7 +28,7 @@ export default class Section1 extends Component {
               <S.ModB variant="contained" size="277px" bgcolor="#4dc288">
                 Download the App
               </S.ModB>
-              <img src="gPlay.png" width="33%"/>
+              <img src="gPlay.png" width="33%" alt="gplay"/>
             </S.Sub3>
           </S.Sub2>
           <S.Sub2>

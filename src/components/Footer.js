@@ -79,7 +79,7 @@ export default class Footer extends Component {
               <Rows>
                 {/* <MaukaLogo /> */}
                 <MadeInIndia>
-                  Built in India for Bharat <img src="india.png" />
+                  Built in India for Bharat <img src="india.png" alt="india" />
                 </MadeInIndia>
               </Rows>
               <Rows>
@@ -100,7 +100,7 @@ export default class Footer extends Component {
                 </Sub2>
               </Rows>
               <Rows display="flex" vertical="center">
-                <img src="gPlay.png" />
+                <img src="gPlay.png" alt="gpay" />
               </Rows>
             </Sub>
             <Sub flex="5" direction="row" justify="space-around">
@@ -139,7 +139,7 @@ export default class Footer extends Component {
                 <Rows>
                   <MaukaLogo />
                   <MadeInIndia>
-                    Built in India for Bharat <img src="india.png" />
+                    Built in India for Bharat <img src="india.png" alt="india" />
                   </MadeInIndia>
                 </Rows>
                 <GooglePlayLogo src="gPlay.png" />

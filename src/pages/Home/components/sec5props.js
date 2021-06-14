@@ -47,7 +47,7 @@ export default class section5props extends Component {
   render() {
     return (
       <Container>
-        <img style={{ marginLeft: "10px" }} src={this.props.src} />
+        <img style={{ marginLeft: "10px" }} src={this.props.src} alt="5prop" />
         <Text>{this.props.name} </Text>
       </Container>
     );

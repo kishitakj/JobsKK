@@ -40,7 +40,7 @@ export default class Badge extends Component {
   render() {
     return (
       <Container>
-        <img flex="1" width="30px" height="30px" src={this.props.src} /> &nbsp;
+        <img flex="1" width="30px" height="30px" src={this.props.src} alt="im" /> &nbsp;
         <Text>{this.props.name} </Text>
       </Container>
     );

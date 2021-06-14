@@ -1,0 +1,1 @@
+export const DesktopQuery='@media only screen and (min-width: 768px)'

@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import styled from "styled-components";
 import Sec5props from "../components/sec5props";
-import Button from "@material-ui/core/Button";
-import { DesktopQuery } from "./../../../constants/queries";
+// import Button from "@material-ui/core/Button";
+// import { DesktopQuery } from "./../../../constants/queries";
 import { DesktopView } from "../../../components/ResponsiveContainer";
 import { NonDesktopView } from "./../../../components/ResponsiveContainer";
 
@@ -69,9 +69,9 @@ flex-direction: row;
 }
 `
 
-const Img = styled.img`
-  flex: 1;
-`
+// const Img = styled.img`
+//   flex: 1;
+// `
 
 const Title= styled.div`
 

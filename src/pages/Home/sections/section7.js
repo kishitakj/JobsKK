@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Data } from "../components/sec7data";
 import styled from "styled-components";
-import { IconContext } from "react-icons";
+
 import { makeStyles } from "@material-ui/core/styles";
 import Accordion from "@material-ui/core/Accordion";
 import AccordionSummary from "@material-ui/core/AccordionSummary";

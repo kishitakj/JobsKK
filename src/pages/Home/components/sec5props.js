@@ -40,9 +40,9 @@ const Text = styled.p`
   }
 `;
 
-const sub = styled.div`
-  margin-left: 10px;
-`;
+// const sub = styled.div`
+//   margin-left: 10px;
+// `;
 export default class section5props extends Component {
   render() {
     return (

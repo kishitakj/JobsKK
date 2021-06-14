@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import Sec3props from "../components/Sec3props";
 import Button from "@material-ui/core/Button";
-import { IconContext } from "react-icons";
-import { BiRightArrowAlt } from "react-icons/bi";
 import { BLUE_SHADE } from "./../../../constants/colors";
 import ArrowRightAltIcon from "@material-ui/icons/ArrowRightAlt";
 import { DesktopView, NonDesktopView } from "./../../../components/ResponsiveContainer";

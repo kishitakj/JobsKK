@@ -2,15 +2,15 @@
 
 import React, { Component } from 'react'
 import Section2 from './sections/Section2'
-import Header from '../../components/Header';
-import Footer from '../../components/Footer';
+// import Header from '../../components/Header';
+// import Footer from '../../components/Footer';
 import Section1 from './sections/Section1/index';
 import Section3 from './sections/section3';
 import Section4 from './sections/section4';
 import Section5 from './sections/section5';
 import Section6 from './sections/section6';
 import Section7 from './sections/section7';
-import Advertisment from '../../components/Advertisment';
+// import Advertisment from '../../components/Advertisment';
 
 
 export default class Home extends Component {

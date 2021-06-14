@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 import Sec4props from "../components/section4props";
-import Button from "@material-ui/core/Button";
 
 const UpperContainer = styled.div`
   display: flex;

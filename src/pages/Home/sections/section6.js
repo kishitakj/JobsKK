@@ -37,14 +37,14 @@ padding: 0 1%;
 }
 `
 
-const Sub3 = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 13px 13px 13px 13px;
-  margin-top: 19px;
+// const Sub3 = styled.div`
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   padding: 13px 13px 13px 13px;
+//   margin-top: 19px;
 
-`;
+// `;
 
 const ModB = styled(Button)`
 &&{
@@ -69,8 +69,8 @@ const ModB = styled(Button)`
 }
 `
 
-const BadgeContainer = styled.div`
-display: flex;`
+// const BadgeContainer = styled.div`
+// display: flex;`
 
 
 const Title= styled.div`

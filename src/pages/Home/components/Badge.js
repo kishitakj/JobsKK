@@ -17,14 +17,14 @@ const Container = styled.div`
   }
 
 `;
-const Img = styled.img`
-  width: 10px;
-  height: 10px;
-  @media only screen and (min-width: 768px) {
-    width: 20px;
-  height: 20px;
-  }
-`;
+// const Img = styled.img`
+//   width: 10px;
+//   height: 10px;
+//   @media only screen and (min-width: 768px) {
+//     width: 20px;
+//   height: 20px;
+//   }
+// `;
 const Text = styled.p`
   font-size: 12px;
   flex: 1;

@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 import Badge from "../components/Badge";
-import sec2 from "./sec2.png";
 import { DesktopQuery } from "./../../../constants/queries";
 import { DesktopView } from "../../../components/ResponsiveContainer";
 import { NonDesktopView } from "./../../../components/ResponsiveContainer";
@@ -21,16 +20,16 @@ const UpperContainer = styled.div`
   }
 `;
 
-const ContentContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  /* overflow:hidden; */
-  @media only screen and (min-width: 768px) {
-    flex: 1;
+// const ContentContainer = styled.div`
+//   display: flex;
+//   flex-direction: column;
+//   /* overflow:hidden; */
+//   @media only screen and (min-width: 768px) {
+//     flex: 1;
 
-    object-fit: contain;
-  }
-`;
+//     object-fit: contain;
+//   }
+// `;
 const BadgesContainer = styled.div`
   margin-top: 2rem;
   ${DesktopQuery} {

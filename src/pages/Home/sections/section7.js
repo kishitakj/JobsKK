@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { Data } from "../components/sec7data";
 import styled from "styled-components";
 

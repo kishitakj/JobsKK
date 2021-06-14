@@ -57,7 +57,7 @@ const BadgesContainer = styled.div`
     flex-direction: row;
   }
 `;
-const BadgeContainer = styled.div``;
+// const BadgeContainer = styled.div``;
 
 const Sub3 = styled.div`
   display: flex;
@@ -82,9 +82,9 @@ const ModB = styled(Button)`
   }
 `;
 
-const Img = styled.img`
-  flex: 1;
-`;
+// const Img = styled.img`
+//   flex: 1;
+// `;
 const Text = styled.span`
   font-family: "proxima-nova";
   font-size: 18px;

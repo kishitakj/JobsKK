@@ -10,7 +10,7 @@ import ListingPage from "./pages/ListingPage/index";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Advertisement from "./components/Advertisment";
-import React, { useEffect } from "react";
+import React from "react";
 
 
 

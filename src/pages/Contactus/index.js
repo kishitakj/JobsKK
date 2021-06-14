@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import styled from "styled-components";
 import Button from '@material-ui/core/Button';
 import CssBaseline from '@material-ui/core/CssBaseline';
@@ -11,7 +11,6 @@ import TextField from '@material-ui/core/TextField';
 // import LockOutlinedIcon from '@material-ui/icons/LockOutlined';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
-import { ReactComponent as IndiaFlag } from "../../assets/images/india.svg";
 // import Container from '@material-ui/core/Container';
 
 
@@ -83,11 +82,11 @@ display:none;
     }
   }
 `;
-const Flag = styled(IndiaFlag)`
-`;
-const sub= styled(TextField)`
-height:90px;
-`
+// const Flag = styled(IndiaFlag)`
+// `;
+// const sub= styled(TextField)`
+// height:90px;
+// `
 const Typo = styled(Typography)`
   && {
   text-align: left;
@@ -97,9 +96,9 @@ const Typo = styled(Typography)`
   font-weight: 600;
   }`
 
-  const sub1= styled.div`
-  height:15vh;
-  `
+  // const sub1= styled.div`
+  // height:15vh;
+  // `
 
 
 const useStyles = makeStyles((theme) => ({

@@ -27,9 +27,9 @@ padding: 0;
     padding: 0 15%;
 }
 `;
-const BadgeContainer = styled.div`
-  display: flex;
-`;
+// const BadgeContainer = styled.div`
+//   display: flex;
+// `;
 
 const Title = styled.div`
   font-family: "proxima-nova";

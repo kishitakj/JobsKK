@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 import FooterProps from "./FooterProps";
-import MaukaLogo from "./MaukaLogo";
 import { DesktopView, NonDesktopView } from "./ResponsiveContainer";
 
 const Container = styled.div`
@@ -137,7 +136,6 @@ export default class Footer extends Component {
             <Sub direction="column" align="center">
               <Sub align="center" justify="space-between" style={{ width: "100%" }}>
                 <Rows>
-                  <MaukaLogo />
                   <MadeInIndia>
                     Built in India for Bharat <img src="india.png" alt="india" />
                   </MadeInIndia>

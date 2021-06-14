@@ -110,7 +110,7 @@ export default class Advertisment extends Component {
               <Title size="16px" color="#333e49">
                 Start building your career with{" "}
                 <Title size="16px" color="#2f9db0">
-                  mauka
+                JobsKK
                 </Title>
               </Title>
               <Title size="12px" weight="normal">

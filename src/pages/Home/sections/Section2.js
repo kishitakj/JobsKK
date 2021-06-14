@@ -166,7 +166,7 @@ export default class Section1 extends Component {
             <MainContainer>
               <Sub2>
                 <Title>
-                  <Title color="#1a75e8">mauka</Title> is the only <br></br> professional app you need
+                  <Title color="#1a75e8">JobsKK</Title> is the only <br></br> professional app you need
                 </Title>
                 <p>Here's how we can help you to build your career</p>
               </Sub2>
